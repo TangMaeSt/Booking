@@ -37,6 +37,7 @@
     }
 
     .btn {
+      display: block;
       padding: 0.8rem 2rem;
       background-color: #00796b;
       color: white;
@@ -45,6 +46,8 @@
       font-size: 1.1rem;
       text-decoration: none;
       transition: background 0.3s;
+      margin: 0 auto 1rem auto;
+      width: fit-content;
     }
 
     .btn:hover {
@@ -62,7 +65,16 @@
   <div class="card">
     <h1>ระบบจองคิวออนไลน์</h1>
     <p>กรุณาคลิกปุ่มด้านล่างเพื่อทำการจองคิวล่วงหน้า</p>
-    <a class="btn" href="https://forms.gle/toHmo9DpkDitBsdf8" target="_blank">จองคิวตอนนี้</a>
+
+    <!-- ปุ่มตรวจสอบคิว -->
+    <a class="btn" href="https://docs.google.com/spreadsheets/d/1Zvr7Nq9wOYdqiZfC2_AnbG4I6zwEqYvlahReF3qL68A/edit?usp=sharing" target="_blank">
+      ตรวจสอบคิว
+    </a>
+
+    <!-- ปุ่มจองคิว -->
+    <a class="btn" href="https://forms.gle/toHmo9DpkDitBsdf8" target="_blank">
+      จองคิวตอนนี้
+    </a>
   </div>
 
   <footer>
