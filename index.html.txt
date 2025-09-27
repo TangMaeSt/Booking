@@ -67,8 +67,8 @@
     <p>กรุณาคลิกปุ่มด้านล่างเพื่อทำการจองคิวล่วงหน้า</p>
 
     <!-- ปุ่มตรวจสอบคิว -->
-    <a class="btn" href="https://docs.google.com/spreadsheets/d/1j2-zkmayTwV3J5EyFcblMDAdLW2PukSdnC7ZpWmlMDo/edit?usp=sharing" target="_blank">
-      ตรวจสอบคิว
+    <a class="btn" href="https://docs.google.com/spreadsheets/d/1j2-zkmayTwV3J5EyFcblMDAdLW2PukSdnC7ZpWmlMDo/edit?usp=sharing"target="_blank">
+      ตรวจสอบคิ
     </a>
 
     <!-- ปุ่มจองคิว -->
@@ -82,5 +82,6 @@
   </footer>
 </body>
 </html>
+
 
 
